@@ -1,0 +1,11 @@
+# GoogleOauth2TRy
+
+
+python manage.py migrate
+
+python manage.py createsuperuser
+
+python manage.py runserver
+
+
+/site{https://www.section.io/engineering-education/django-google-oauth/}
